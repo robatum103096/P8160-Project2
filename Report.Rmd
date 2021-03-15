@@ -17,13 +17,38 @@ data=read.csv("ss.csv")
 
 # Part 1
 
+```{r}
+#Conduct PCA
+
+```
+
 # Part 2
+
+```{r}
+
+```
 
 # Part 3
 
+```{r}
+
+```
+
 # Part 4
+
+```{r}
+
+```
 
 # Part 5
 
+```{r}
+
+```
+
 # Part 6
+
+```{r}
+
+```
 
