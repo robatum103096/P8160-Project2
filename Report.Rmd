@@ -9,17 +9,19 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 
 #load libraries
+library(stats)
 library(tidyverse)
 
 #load data
-data=read.csv("ss.csv")
+data=read.csv("ss.csv", row.names = 1)
 ```
 
 # Part 1
 
 ```{r}
 #Conduct PCA
-
+pca=prcomp(data)
+View(summary(pca)$importance)
 ```
 
 # Part 2
