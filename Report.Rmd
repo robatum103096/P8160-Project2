@@ -1,0 +1,29 @@
+---
+title: 'Applying EM Algorithms for scRNA Expression Clustering'
+author: "Jyoti Kumar, Robert Tumasian III, Ling Tuo & Qetsiyah Wang"
+date: "April 4, 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+#load libraries
+library(tidyverse)
+
+#load data
+data=read.csv("ss.csv")
+```
+
+# Part 1
+
+# Part 2
+
+# Part 3
+
+# Part 4
+
+# Part 5
+
+# Part 6
+
