@@ -2,7 +2,7 @@
 title: 'Applying EM Algorithms for scRNA Expression Clustering'
 author: "Jyoti Kumar, Robert Tumasian III, Ling Tuo & Qetsiyah Wang"
 date: "April 4, 2021"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
